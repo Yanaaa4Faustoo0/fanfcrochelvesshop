@@ -25,7 +25,7 @@
     <main>
       <h2>More of our products!</h2>
 
-      <!-- First row -->
+   
       <div class="products">
         <div class="product-card">
           <div class="product-box">
@@ -60,7 +60,7 @@
         </div>
       </div>
 
-      <!-- Second row -->
+      
       <div class="products">
         <div class="product-card">
           <div class="product-box">
@@ -104,3 +104,4 @@
 
 <script setup>
 </script>
+
